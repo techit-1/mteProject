@@ -7,10 +7,6 @@ public class cameraController : MonoBehaviour
     [SerializeField] Transform target;
 
     [SerializeField] float distanceFromTarget = 13.0f;
-
-    Vector3 smoothVelocity = Vector3.zero;
-
-    [SerializeField] float smoothTime = 1.0f;
     
     // Start is called before the first frame update
     void Start()
