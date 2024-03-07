@@ -318,10 +318,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4968ac4f46022af4f83fd8a06542dba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHp: 3
+  atk: 1
+  enemyType: 2
+  MaxHp: 2
   currentHp: 0
   Isdead: 0
-  Atk: 1
 --- !u!1 &320175193
 GameObject:
   m_ObjectHideFlags: 0
@@ -741,6 +742,7 @@ GameObject:
   - component: {fileID: 524417543}
   - component: {fileID: 524417545}
   - component: {fileID: 524417544}
+  - component: {fileID: 524417546}
   m_Layer: 0
   m_Name: ghostSpawnerController
   m_TagString: Enemy
@@ -797,10 +799,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4968ac4f46022af4f83fd8a06542dba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHp: 3
+  atk: 1
+  enemyType: 0
+  MaxHp: 5
   currentHp: 0
   Isdead: 0
-  Atk: 0
 --- !u!195 &524417545
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -823,6 +826,24 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &524417546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524417541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955e68b259da2b24c83cab055299b86c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRate: 1
+  enemyPrefabs:
+  - {fileID: 977442542}
+  - {fileID: 122365486}
+  - {fileID: 1310025287}
+  canSpawn: 1
 --- !u!1 &548324810
 GameObject:
   m_ObjectHideFlags: 0
@@ -1418,10 +1439,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4968ac4f46022af4f83fd8a06542dba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  atk: 1
+  enemyType: 1
   MaxHp: 3
   currentHp: 0
   Isdead: 0
-  Atk: 1
 --- !u!195 &977442546
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1627,10 +1649,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4968ac4f46022af4f83fd8a06542dba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHp: 3
+  atk: 1
+  enemyType: 3
+  MaxHp: 5
   currentHp: 0
   Isdead: 0
-  Atk: 1
 --- !u!195 &1310025291
 NavMeshAgent:
   m_ObjectHideFlags: 0

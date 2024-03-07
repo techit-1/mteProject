@@ -21,6 +21,9 @@ public class playerController : MonoBehaviour
     [SerializeField] float hpAmount;
 
 
+    float time;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -52,8 +55,21 @@ public class playerController : MonoBehaviour
     {
         if(collision.collider.CompareTag("Enemy"))
         {
-            takeDamage(enemyController.instance.Atk);
-            
+            takeDamage(enemyController.instance.atk);
+        }
+    }
+
+    private void OnCollisionStay(Collision stillCollision)
+    {
+        if(stillCollision.collider.CompareTag("Enemy"))
+        {
+            time += Time.deltaTime;
+            if( time >= 2.0f)
+            {
+                takeDamage(enemyController.instance.atk);
+                time = 0f;
+            }
+            //takeDamage(enemyController.instance.Atk);
         }
     }
 
@@ -62,7 +78,7 @@ public class playerController : MonoBehaviour
         hpAmount = hpAmount - damageTaken;
         hpBar.fillAmount = hpAmount / 10f;
 
-        if(hpAmount <= 0)
+        if (hpAmount <= 0)
         {
             Isdead = true;
             Destroy(gameObject);

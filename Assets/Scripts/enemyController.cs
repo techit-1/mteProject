@@ -9,11 +9,23 @@ public class enemyController : MonoBehaviour
     private Transform enemyMovement;
     private NavMeshAgent nav;
     private float damaged;
+    [SerializeField] public float atk = 1.0f;
 
-    public float MaxHp = 3.0f;
+    public enum Enemy
+    {
+        Spawner,
+        typeA,
+        typeB,
+        typeC,
+        miniBoss,
+        Boss,
+        none,
+    }
+    public Enemy enemyType;
+
+    public float MaxHp;
     [SerializeField] float currentHp;
     public bool Isdead = false;
-    public float Atk = 1.0f;
 
     public static enemyController instance;
 
@@ -29,6 +41,7 @@ public class enemyController : MonoBehaviour
         nav = GetComponent<NavMeshAgent>();
         damaged = weaponController.instance.attackValue;
         currentHp = MaxHp;
+
     }
 
     // Update is called once per frame
