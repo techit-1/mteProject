@@ -8,13 +8,11 @@ using UnityEngine.UI;
 public class playerController : MonoBehaviour
 {
     //playerMove
-    private BoxCollider bd;
-    private Rigidbody rb;
     [SerializeField] private float playerSpeed = 5f;
     [SerializeField] private Camera followCamera;
     Vector3 movement;
 
-    public float maxHp = 10.0f;
+    public float maxHp;
     public bool Isdead = false;
 
     public Image hpBar;
@@ -27,8 +25,6 @@ public class playerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        bd = GetComponent<BoxCollider>();
-        rb = GetComponent<Rigidbody>();
         hpAmount = maxHp;
     }
 
@@ -38,7 +34,6 @@ public class playerController : MonoBehaviour
         if (Isdead != true)
         {
             Movement();
-            //hpAmount = currentHp;
         }
     }
 
@@ -64,19 +59,18 @@ public class playerController : MonoBehaviour
         if(stillCollision.collider.CompareTag("Enemy"))
         {
             time += Time.deltaTime;
-            if( time >= 2.0f)
+            if( time >= 1.0f)
             {
                 takeDamage(enemyController.instance.atk);
                 time = 0f;
             }
-            //takeDamage(enemyController.instance.Atk);
         }
     }
 
     void takeDamage(float damageTaken)
     {
         hpAmount = hpAmount - damageTaken;
-        hpBar.fillAmount = hpAmount / 10f;
+        hpBar.fillAmount = hpAmount / maxHp;
 
         if (hpAmount <= 0)
         {

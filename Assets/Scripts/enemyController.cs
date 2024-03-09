@@ -23,6 +23,8 @@ public class enemyController : MonoBehaviour
     }
     public Enemy enemyType;
 
+    
+
     public float MaxHp;
     [SerializeField] float currentHp;
     public bool Isdead = false;
@@ -42,7 +44,15 @@ public class enemyController : MonoBehaviour
         damaged = weaponController.instance.attackValue;
         currentHp = MaxHp;
 
-    }
+        /*switch(Enemy)
+        case Enemy.Spawner:
+            atk = 1.0f;
+            break;
+        case Enemy.typeA:
+            atk = 2.0f;
+            break;*/
+
+        }
 
     // Update is called once per frame
     void Update()

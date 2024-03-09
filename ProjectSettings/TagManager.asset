@@ -7,6 +7,7 @@ TagManager:
   - Background
   - Weapons
   - Enemy
+  - Spawner
   layers:
   - Default
   - TransparentFX
