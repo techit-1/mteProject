@@ -8,7 +8,8 @@ public class enemyController : MonoBehaviour
 {
     private Transform enemyMovement;
     private NavMeshAgent nav;
-    private float damaged;
+    private float saberDamaged;
+    private float knuckleDamaged;
     [SerializeField] public float atk = 1.0f;
 
     public enum Enemy
@@ -41,7 +42,8 @@ public class enemyController : MonoBehaviour
     {
         enemyMovement = GameObject.FindGameObjectWithTag("Player").transform;
         nav = GetComponent<NavMeshAgent>();
-        damaged = weaponController.instance.attackValue;
+        saberDamaged = 1f;
+        knuckleDamaged = 0.5f;
         currentHp = MaxHp;
 
         /*switch(Enemy)
@@ -74,9 +76,14 @@ public class enemyController : MonoBehaviour
     //damage taken
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Weapons"))
+        switch (other.name)
         {
-            currentHp = currentHp - damaged;
+            case "saberController":
+                currentHp -= saberDamaged;
+                break;
+            case "knuckleController":
+                currentHp -= knuckleDamaged;
+                break;
         }
     }
     void Movment()

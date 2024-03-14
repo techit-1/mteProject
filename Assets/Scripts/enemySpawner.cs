@@ -13,13 +13,21 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] float bigSwarmInterval = 3f;
 
     [SerializeField] float count = 0f;
-    public float maxEnemy;
+    public float maxEnemy = 15f;
     [SerializeField] GameObject enemyContainner;
+    [SerializeField] public bool canSpawn;
 
+    public static enemySpawner Instance;
+
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     // Start is called before the first frame update
     void Start()
     {
+
         StartCoroutine(spawnEnemy(swarmIntervalA, swarmPrefabA));
         StartCoroutine(spawnEnemy(swarmIntervalB, swarmPrefabB));
         StartCoroutine(spawnEnemy(bigSwarmInterval, bigSwarmPrefab));
@@ -29,7 +37,7 @@ public class enemySpawner : MonoBehaviour
     private IEnumerator spawnEnemy(float interval, GameObject enemy)
     {
         yield return new WaitForSeconds(interval);
-        if (count <= maxEnemy)
+        if (count <= maxEnemy && canSpawn == true)
         {
             GameObject newEnemy = Instantiate(enemy, transform.position, Quaternion.identity);
             newEnemy.transform.parent = enemyContainner.transform;

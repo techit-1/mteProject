@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class weaponController : MonoBehaviour
+public class knuckleController : MonoBehaviour
 {
+    public static knuckleController instance;
     public float attackValue = 1.0f;
-    public static weaponController instance;
+
 
     private void Awake()
     {

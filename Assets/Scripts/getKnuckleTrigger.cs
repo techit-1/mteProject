@@ -2,35 +2,36 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ghostAppeartrigger : MonoBehaviour
+public class getKnuckleTrigger : MonoBehaviour
 {
-    [SerializeField] GameObject ghost;
+    public GameObject knuckle;
 
     private void Awake()
     {
-        ghost = GameObject.FindWithTag("Spawner");
-        ghost.SetActive(false);
+        knuckle = GameObject.Find("knuckleController");
+        knuckle.SetActive(false);
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
-            ghost.SetActive(true);
-            enemySpawner.Instance.canSpawn = true;
-            
+            knuckle.SetActive(true);
+            Debug.Log("you get a knuckle!!");
+            Destroy(gameObject);
+
         }
     }
 }
