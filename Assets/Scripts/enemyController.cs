@@ -15,9 +15,7 @@ public class enemyController : MonoBehaviour
     public enum Enemy
     {
         Spawner,
-        typeA,
-        typeB,
-        typeC,
+        mob,
         miniBoss,
         Boss,
         none,
@@ -46,15 +44,7 @@ public class enemyController : MonoBehaviour
         knuckleDamaged = 0.5f;
         currentHp = MaxHp;
 
-        /*switch(Enemy)
-        case Enemy.Spawner:
-            atk = 1.0f;
-            break;
-        case Enemy.typeA:
-            atk = 2.0f;
-            break;*/
-
-        }
+    }
 
     // Update is called once per frame
     void Update()
@@ -68,9 +58,21 @@ public class enemyController : MonoBehaviour
         else
         {
             Isdead = true;
-            Destroy(gameObject);
+            switch (enemyType)
+            {
+                case Enemy.mob:
+                    Destroy(gameObject);
+                    Debug.Log("You destroy enemy!!");
+                    break;
+
+                case Enemy.Spawner:
+                    Destroy(gameObject);
+                    triggerWave2();
+                    Debug.Log("You destroyed enemy spawner!!");
+                    break;
+            }
         }
-            
+
     }
 
     //damage taken
@@ -89,5 +91,10 @@ public class enemyController : MonoBehaviour
     void Movment()
     {
         nav.destination = enemyMovement.position;
+    }
+
+    void triggerWave2()
+    {
+        ghostAppeartrigger.instance.wave2Appear();
     }
 }

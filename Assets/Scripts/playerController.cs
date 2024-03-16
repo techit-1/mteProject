@@ -71,11 +71,13 @@ public class playerController : MonoBehaviour
     {
         hpAmount = hpAmount - damageTaken;
         hpBar.fillAmount = hpAmount / maxHp;
+        Debug.Log("Enemy attacked you!!");
 
         if (hpAmount <= 0)
         {
             Isdead = true;
             Destroy(gameObject);
+            Debug.Log("You died!!");
         }
     }
 

@@ -4,12 +4,21 @@ using UnityEngine;
 
 public class ghostAppeartrigger : MonoBehaviour
 {
-    [SerializeField] GameObject ghost;
+    //[SerializeField] GameObject ghost;
+    GameObject wave1;
+    GameObject wave2;
+    //GameObject wave3;
+
+    public static ghostAppeartrigger instance;
 
     private void Awake()
     {
-        ghost = GameObject.FindWithTag("Spawner");
-        ghost.SetActive(false);
+        instance = this;
+        wave1 = GameObject.Find("ghostSpawnerController1");
+        wave1.SetActive(false);
+        wave2 = GameObject.Find("ghostSpawnerController2");
+        wave2.SetActive(false);
+        
     }
 
     // Start is called before the first frame update
@@ -28,9 +37,21 @@ public class ghostAppeartrigger : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Player"))
         {
-            ghost.SetActive(true);
+            //ghost.SetActive(true);
+            wave1.SetActive(true);
             enemySpawner.Instance.canSpawn = true;
-            
+            Debug.Log("Enemy appear!!");
         }
+    }
+
+    public void wave2Appear()
+    {
+        wave2.SetActive(true);
+        Destroy(wave2.GetComponent<enemySpawner>());
+        wave2.AddComponent<enemySpawner>();
+        enemySpawner.Instance.waveEnemy = 2;
+        enemySpawner.Instance.maxEnemy = 30f;
+        enemySpawner.Instance.canSpawn = true;
+        Debug.Log("New enemy appear!!");
     }
 }

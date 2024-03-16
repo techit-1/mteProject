@@ -8,12 +8,13 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] GameObject swarmPrefabB;
     [SerializeField] GameObject bigSwarmPrefab;
 
-    [SerializeField] float swarmIntervalA = 2f;
-    [SerializeField] float swarmIntervalB = 1f;
-    [SerializeField] float bigSwarmInterval = 3f;
+    [SerializeField] float swarmIntervalA = 0.2f;
+    [SerializeField] float swarmIntervalB = 0.1f;
+    [SerializeField] float bigSwarmInterval = 0.3f;
 
     [SerializeField] float count = 0f;
-    public float maxEnemy = 15f;
+    public int waveEnemy = 1;
+    public float maxEnemy = 15f; //can only edit from ghostAppearTrigger
     [SerializeField] GameObject enemyContainner;
     [SerializeField] public bool canSpawn;
 
@@ -27,11 +28,13 @@ public class enemySpawner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        swarmPrefabA = GameObject.Find("ghostAController" + waveEnemy);
+        swarmPrefabB = GameObject.Find("ghostBController" + waveEnemy);
+        bigSwarmPrefab = GameObject.Find("ghostCController" + waveEnemy);
+        enemyContainner = GameObject.Find("Containner");
         StartCoroutine(spawnEnemy(swarmIntervalA, swarmPrefabA));
         StartCoroutine(spawnEnemy(swarmIntervalB, swarmPrefabB));
         StartCoroutine(spawnEnemy(bigSwarmInterval, bigSwarmPrefab));
-
     }
 
     private IEnumerator spawnEnemy(float interval, GameObject enemy)
