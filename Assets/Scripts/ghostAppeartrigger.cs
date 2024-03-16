@@ -39,6 +39,7 @@ public class ghostAppeartrigger : MonoBehaviour
         {
             //ghost.SetActive(true);
             wave1.SetActive(true);
+            enemySpawner.Instance.waveEnemy = 1;
             enemySpawner.Instance.canSpawn = true;
             Debug.Log("Enemy appear!!");
         }

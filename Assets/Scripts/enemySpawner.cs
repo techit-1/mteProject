@@ -13,8 +13,8 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] float bigSwarmInterval = 0.3f;
 
     [SerializeField] float count = 0f;
-    public int waveEnemy = 1;
-    public float maxEnemy = 15f; //can only edit from ghostAppearTrigger
+    public int waveEnemy; //edit in ghostAppeartrigger
+    public float maxEnemy = 15f; //can only edit from ghostAppeartrigger
     [SerializeField] GameObject enemyContainner;
     [SerializeField] public bool canSpawn;
 
