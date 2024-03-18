@@ -10,6 +10,7 @@ public class enemyController : MonoBehaviour
     private NavMeshAgent nav;
     private float saberDamaged;
     private float knuckleDamaged;
+
     [SerializeField] public float atk = 1.0f;
 
     public enum Enemy
@@ -41,7 +42,7 @@ public class enemyController : MonoBehaviour
         enemyMovement = GameObject.FindGameObjectWithTag("Player").transform;
         nav = GetComponent<NavMeshAgent>();
         saberDamaged = 1f;
-        knuckleDamaged = 0.5f;
+        knuckleDamaged = 1f;
         currentHp = MaxHp;
 
     }
@@ -64,11 +65,21 @@ public class enemyController : MonoBehaviour
                     Destroy(gameObject);
                     Debug.Log("You destroy enemy!!");
                     break;
-
+                case Enemy.miniBoss:
+                    Destroy(gameObject);
+                    Debug.Log("You destroy Mini boss!!");
+                    break;
                 case Enemy.Spawner:
                     Destroy(gameObject);
-                    triggerWave2();
+                    if(gameObject.name == "ghostSpawnerController2")
+                        triggerBossWave();
+                    else
+                        triggerNextWave();
                     Debug.Log("You destroyed enemy spawner!!");
+                    break;
+                case Enemy.Boss:
+                    Destroy(gameObject);
+                    Debug.Log("you destroy Boss enemy!!");
                     break;
             }
         }
@@ -93,8 +104,13 @@ public class enemyController : MonoBehaviour
         nav.destination = enemyMovement.position;
     }
 
-    void triggerWave2()
+    void triggerNextWave()
     {
         ghostAppeartrigger.instance.wave2Appear();
+    }
+
+    void triggerBossWave()
+    {
+        ghostAppeartrigger.instance.finalWaveAppear();
     }
 }

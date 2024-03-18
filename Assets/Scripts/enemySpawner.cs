@@ -8,9 +8,9 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] GameObject swarmPrefabB;
     [SerializeField] GameObject bigSwarmPrefab;
 
-    [SerializeField] float swarmIntervalA = 0.2f;
-    [SerializeField] float swarmIntervalB = 0.1f;
-    [SerializeField] float bigSwarmInterval = 0.3f;
+    public float swarmIntervalA = 0.2f;
+    public float swarmIntervalB = 0.1f;
+    public float bigSwarmInterval = 0.3f;
 
     [SerializeField] float count = 0f;
     public int waveEnemy; //edit in ghostAppeartrigger
@@ -35,6 +35,7 @@ public class enemySpawner : MonoBehaviour
         StartCoroutine(spawnEnemy(swarmIntervalA, swarmPrefabA));
         StartCoroutine(spawnEnemy(swarmIntervalB, swarmPrefabB));
         StartCoroutine(spawnEnemy(bigSwarmInterval, bigSwarmPrefab));
+
     }
 
     private IEnumerator spawnEnemy(float interval, GameObject enemy)

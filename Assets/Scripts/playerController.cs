@@ -48,7 +48,7 @@ public class playerController : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if(collision.collider.CompareTag("Enemy"))
+        if(collision.collider.CompareTag("Enemy") || collision.collider.CompareTag("Spawner"))
         {
             takeDamage(enemyController.instance.atk);
         }
@@ -56,7 +56,7 @@ public class playerController : MonoBehaviour
 
     private void OnCollisionStay(Collision stillCollision)
     {
-        if(stillCollision.collider.CompareTag("Enemy"))
+        if(stillCollision.collider.CompareTag("Enemy") || stillCollision.collider.CompareTag("Spawner"))
         {
             time += Time.deltaTime;
             if( time >= 1.0f)

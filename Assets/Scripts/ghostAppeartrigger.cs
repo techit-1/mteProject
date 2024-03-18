@@ -7,7 +7,7 @@ public class ghostAppeartrigger : MonoBehaviour
     //[SerializeField] GameObject ghost;
     GameObject wave1;
     GameObject wave2;
-    //GameObject wave3;
+    GameObject finalWave;
 
     public static ghostAppeartrigger instance;
 
@@ -18,6 +18,8 @@ public class ghostAppeartrigger : MonoBehaviour
         wave1.SetActive(false);
         wave2 = GameObject.Find("ghostSpawnerController2");
         wave2.SetActive(false);
+        finalWave = GameObject.Find("ghostBossController");
+        finalWave.SetActive(false);
         
     }
 
@@ -53,6 +55,20 @@ public class ghostAppeartrigger : MonoBehaviour
         enemySpawner.Instance.waveEnemy = 2;
         enemySpawner.Instance.maxEnemy = 30f;
         enemySpawner.Instance.canSpawn = true;
-        Debug.Log("New enemy appear!!");
+        Debug.Log("Mini boss appear!!");
+    }
+
+    public void finalWaveAppear()
+    {
+        finalWave.SetActive(true);
+        Destroy(finalWave.GetComponent<enemySpawner>());
+        finalWave.AddComponent<enemySpawner>();
+        enemySpawner.Instance.waveEnemy = 3;
+        enemySpawner.Instance.maxEnemy = 50f;
+        enemySpawner.Instance.swarmIntervalA = 1;
+        enemySpawner.Instance.swarmIntervalB = 1;
+        enemySpawner.Instance.bigSwarmInterval = 2;
+        enemySpawner.Instance.canSpawn = true;
+        Debug.Log("Boss enemy appear!!");
     }
 }
