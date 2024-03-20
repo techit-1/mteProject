@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 3732715d0678f9b46a75a861306c712b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostSpawner_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67545f69df17b7a4685117a8244039df
+      internalID: 156043887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408186a356a13f4b8853e73035f88fd
+      internalID: 527637661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89263cc2f3b089840a162d4f0a140e50
+      internalID: -396946785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62758aac314444491e87e43f118ce8
+      internalID: 1477205390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb040687b4df30a4dbc4de58d44c38c9
+      internalID: -167707485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_5
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617322024d6ca2f4d851acc75635308c
+      internalID: 1651722598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_6
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cb5a50051b8e04da9241b911a30e7d
+      internalID: 50455173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_7
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ac3e9529d74644bd173d8cad0d12d
+      internalID: -391548758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_8
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ab0515b642184492ac6f7713f2645
+      internalID: 477802531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_9
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 5148
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ac6b103cebff46bc26701587b1a93
+      internalID: 1038449099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e01cdbb25c8484086d930dcd329cbf
+      internalID: 1103162359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd29276db420642b6855c855b637e4
+      internalID: -755037726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a26ed1418e54048a65455288bd1fe6
+      internalID: 1191954664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_13
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7fd57854bf027448ec3244a664454d
+      internalID: -1202573371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_14
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599772252ba8b2419edfb0344e2044b
+      internalID: 1082580347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_15
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7913a422ce98d6f4fb6a7e45d60368f7
+      internalID: 1971225529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_16
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411831e6c7c920e4c8b981d236c4df9a
+      internalID: -1985237273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_17
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956f2cb64917c124fa1635ff6151b001
+      internalID: -454929956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_18
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a97e3cd999a7a49ab49c8690191a2a
+      internalID: 2120877140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_19
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 4719
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b20889b29e5d694183475025dc9b0f0
+      internalID: -1737069349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd7252883463f4baed243ea18d710f
+      internalID: 1210325747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0db13e615bf35429cc58061a1054ba
+      internalID: 1859198575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08c49d734422f43b6233b04c77fbf4
+      internalID: 1338661818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_23
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed4528f0982784a88e06992e31a3c5
+      internalID: -1182545678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_24
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f425877ac15aa343921f60196f6b668
+      internalID: -2019710396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_25
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232b3db9dad33c46873a66a93b38cdc
+      internalID: -597052872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_26
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf7052e8f32e748ba1506b24154f2c
+      internalID: -1409661503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_27
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03fe4bd2de42e43a3e3c604e56a313
+      internalID: -436574640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_28
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d58d59f750c4449b0e37e24035d51a
+      internalID: -824583563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_29
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 4290
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30efa489a65f4f547ba2060d9722513c
+      internalID: 216326591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce2ca68a0491445afdcbfc61a098b5
+      internalID: 1775418312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a586d7db5d3d4490de6c9b2530e84
+      internalID: -2014011545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_32
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fbf54c540711f48b4ae6bd1a32a904
+      internalID: -49232261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_33
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5e8444f9b6784e89166f5282044d9
+      internalID: 950428853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_34
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e5bea40cd4d644ca480bdec6107cba
+      internalID: -208636224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_35
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75cab5223b443499662189b46ff58b
+      internalID: -1240979394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_36
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7eb786cdd80143b3556efaac610a5
+      internalID: 1713220196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_37
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea850166227be0408a24074d42e344c
+      internalID: -523241261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_38
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bedf4641a2e54479acf99199113e90
+      internalID: 1530680483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_39
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 3861
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95646f90fd0accc4fbc288cccebaf0b7
+      internalID: 86143397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba084c33dc9c714f8c994eff6e246b6
+      internalID: 861107669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7df4dc01eac946a0ae3c588c1b153
+      internalID: -1634373324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_42
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918507512295c7d4eb109f40e5f67be3
+      internalID: -838819553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_43
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275fa13302edb94b9f7672726dbb49a
+      internalID: 1221661967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77785bd479f8e564a8fd7f8dba2ff7d4
+      internalID: -878936571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_45
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbc53a8dd1f7f46b4079842d306e57
+      internalID: 20679738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_46
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ede7b14f423114bb0fb9019a5150b5
+      internalID: -313845164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_47
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4572bf5c887646995d3295eb24269
+      internalID: 1332235788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_48
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c35d98cd6a4f438e07bb4321f1775
+      internalID: -335646759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_49
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 3432
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e4ee61fdc35e44b25a7eda8c8cf41
+      internalID: -1943280723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e633c7e6ed5c409bba39cff2ecf0d
+      internalID: -1712527486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_51
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c0aa6352b228e438f709894e7b5cc4
+      internalID: -39874050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01289a1ad5ac464aaf97aca3bcb6dd8
+      internalID: 587845392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_53
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca10b3aa55b924d9e631eee2dc766f
+      internalID: -1901327394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_54
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506fed93a1f72d4ea9a9bef33f1b9a4
+      internalID: -93517382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_55
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49090fedd8eba44395a2d53cb6063a0
+      internalID: 993542809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_56
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739967d0caa3d194dbf5bc5b85340bd5
+      internalID: 1332549526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_57
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120e66f556dea44db68bfb2d1f6dfcc
+      internalID: 1364224087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_58
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ffb62669c74247b48f1620eecaab3
+      internalID: -1816897484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_59
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 3003
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796f73489ee0ef44b9497f8ef53ae23
+      internalID: 1859901740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3666c78f881df4ab860ac47151e477
+      internalID: 954836538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_61
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05202878cb71e14f9371bfdf62e9a6c
+      internalID: 972357541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_62
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c3ce9ab1a0434c969d8f666755013
+      internalID: -1584705972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_63
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03165efd8f7a8d64f9446848210fc7ca
+      internalID: -1247045991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_64
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1757c9da549bd4a95742cd3a10fbfb
+      internalID: -714256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_65
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7131cd728fdb45b7f65fe870ad7cc
+      internalID: -1381248084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_66
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63712f7e58b460c458879ecbc15bb2ee
+      internalID: -1266036050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_67
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab0408c6fb6774abb67c481b3bbf90
+      internalID: -1678082533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_68
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9ec7a670f7cd42a27467eeaefdcc9
+      internalID: 829777664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_69
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2574
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010111edddf7ed24bbc2c7eab21ec602
+      internalID: -556550079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcbd3d8105170c43a855672b69d4b15
+      internalID: 310344230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368d9dddf3832c47b4cf3b21059a0bc
+      internalID: 1158550151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_72
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd6bc69377d7c4097e149e33603516
+      internalID: -910202889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_73
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd7f6a9cba681419c2434b8a2497ad
+      internalID: 1668093421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_74
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a0a7242df9684298f1615ed1f39b6
+      internalID: -1465457152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_75
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce3464abe18fa478f189c7b7a53795
+      internalID: -1987713398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_76
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742e6b3a7d95c14b867a4d532682249
+      internalID: 2072275088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_77
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f635d95bdd871142add0f4c63140ce5
+      internalID: -1711974933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_78
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1732da8f0f92004794bd40b539334f6
+      internalID: -864477344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_79
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2145
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f905ad408582347b08fd132a878acb
+      internalID: 1168713863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30ab6e473d0a6428878795d19f9382
+      internalID: -880453953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_81
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45847715506499d4fa2c6358c679bbfe
+      internalID: 1423689366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_82
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ed1442a581ea4aa98759ca2060d59
+      internalID: 176337069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_83
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42fbe04851e1744e8ad20476087cc03
+      internalID: -773925039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_84
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4043153e5fbec49b2ec157670f43cc
+      internalID: -462112582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_85
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17ad89e7c27ac42a9114907872e972
+      internalID: 1125755985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_86
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d74439f666eee4fa7e87f2f3ddbe0e
+      internalID: -563000879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_87
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b636232befdb6342b1313cba46da79b
+      internalID: -870811266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_88
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504acc476cfc58a46b6b5a8d85632185
+      internalID: 1380104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_89
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1716
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e5142dbfcb264fa8323377f3aa39a
+      internalID: -119702964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32d9ac7e6172948b426e98a5b522fe
+      internalID: 1629257780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_91
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08976e80c87365a40acd43ca26affdca
+      internalID: -1095651986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_92
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db027e9c951174099ddf429f88e7b1
+      internalID: 1957348904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_93
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81217601decb07f4cba3f9bb025527dd
+      internalID: 771316649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_94
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a2b1cb479ea64ea98a306aded18d0
+      internalID: -197561281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_95
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a1ca7e30567b40a1db178fd444ca6
+      internalID: -899252482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_96
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73390f09724ee21438681180c06877de
+      internalID: 1589782143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_97
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e60f4f0e404a49ac9d0bb46ee122b
+      internalID: 1219133569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_98
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56013c6fe08270644a624492783b15da
+      internalID: 912238108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_99
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1287
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f150ef77c4bd34a89f568842754d01
+      internalID: 1663429469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c98f20e8b36ca43a42ac388bf628b9
+      internalID: -1588198242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_101
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0622e254dcd9e64c8f5c4d884154d91
+      internalID: 415462937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_102
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a177808e0cdd85408c428fc5d663059
+      internalID: 1024209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_103
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc805206b2107b448c1df3ffc559b9f
+      internalID: 1203070823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_104
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6dad7aa0da834fa942a9c449a1e0b
+      internalID: 1127842169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_105
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695469c00f1b7eb40a2ec447f9811c24
+      internalID: 2107640609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_106
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614b4f0a48d5874ca03df1911a19194
+      internalID: 827053307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_107
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88491fbcc654acd4595f587065f4cd7e
+      internalID: 113524347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_108
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff54e995ef9ea47b907d40626e03b9
+      internalID: 1264089176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_109
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 858
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d32829c9c6eff4080bfb835f79fae5
+      internalID: -210988142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8dc605ed8c31843b6bec6d3d79eaac
+      internalID: -1343043468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_111
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f70bc5aa50500742a04dd9a3c7db11c
+      internalID: -753708438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_112
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad813155d1cf9db438df6d4b86ce6047
+      internalID: -2000216664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_113
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914a2e438ec3e14ba57b37f70c9396d
+      internalID: -1468266005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_114
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1d0b63d72aff4ba75cee90ffe39c7
+      internalID: 1672178314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_115
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dcece80c7287342aa4c20dfe84110a
+      internalID: 1238452851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_116
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c725ca5ff2092449dd5a8f70a5a4a7
+      internalID: 2056275679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_117
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bcbbc69458a5d45909e2e0bc70e7c3
+      internalID: 2068829852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_118
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2817aadfddeaf40b0cb36fd4370a72
+      internalID: 1194711905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_119
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 429
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51656f2a1926aa469a572c6caf3ea20
+      internalID: -1383844572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622497c3171a4647b63e7f27db1ec6d
+      internalID: 1697577015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_121
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa39a9e2d4b8644fa86881dfda94390
+      internalID: 855472689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_122
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f6c58d7053f448a598bba1fea087c
+      internalID: -1612908011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_123
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8f625f86532b40959f2cd8a98e815
+      internalID: 1915307359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_124
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ffdcd2c662d8941b7c69f9a73e45e3
+      internalID: 1444097324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostSpawner_r_125
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 0
+        width: 462
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa7f9c448946041a08688256856d5c
+      internalID: 604527527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e5321feab3b26746b94c826a77d6c9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ghostSpawner_r_0: 156043887
+      ghostSpawner_r_1: 527637661
+      ghostSpawner_r_10: 1103162359
+      ghostSpawner_r_100: -1588198242
+      ghostSpawner_r_101: 415462937
+      ghostSpawner_r_102: 1024209124
+      ghostSpawner_r_103: 1203070823
+      ghostSpawner_r_104: 1127842169
+      ghostSpawner_r_105: 2107640609
+      ghostSpawner_r_106: 827053307
+      ghostSpawner_r_107: 113524347
+      ghostSpawner_r_108: 1264089176
+      ghostSpawner_r_109: -210988142
+      ghostSpawner_r_11: -755037726
+      ghostSpawner_r_110: -1343043468
+      ghostSpawner_r_111: -753708438
+      ghostSpawner_r_112: -2000216664
+      ghostSpawner_r_113: -1468266005
+      ghostSpawner_r_114: 1672178314
+      ghostSpawner_r_115: 1238452851
+      ghostSpawner_r_116: 2056275679
+      ghostSpawner_r_117: 2068829852
+      ghostSpawner_r_118: 1194711905
+      ghostSpawner_r_119: -1383844572
+      ghostSpawner_r_12: 1191954664
+      ghostSpawner_r_120: 1697577015
+      ghostSpawner_r_121: 855472689
+      ghostSpawner_r_122: -1612908011
+      ghostSpawner_r_123: 1915307359
+      ghostSpawner_r_124: 1444097324
+      ghostSpawner_r_125: 604527527
+      ghostSpawner_r_13: -1202573371
+      ghostSpawner_r_14: 1082580347
+      ghostSpawner_r_15: 1971225529
+      ghostSpawner_r_16: -1985237273
+      ghostSpawner_r_17: -454929956
+      ghostSpawner_r_18: 2120877140
+      ghostSpawner_r_19: -1737069349
+      ghostSpawner_r_2: -396946785
+      ghostSpawner_r_20: 1210325747
+      ghostSpawner_r_21: 1859198575
+      ghostSpawner_r_22: 1338661818
+      ghostSpawner_r_23: -1182545678
+      ghostSpawner_r_24: -2019710396
+      ghostSpawner_r_25: -597052872
+      ghostSpawner_r_26: -1409661503
+      ghostSpawner_r_27: -436574640
+      ghostSpawner_r_28: -824583563
+      ghostSpawner_r_29: 216326591
+      ghostSpawner_r_3: 1477205390
+      ghostSpawner_r_30: 1775418312
+      ghostSpawner_r_31: -2014011545
+      ghostSpawner_r_32: -49232261
+      ghostSpawner_r_33: 950428853
+      ghostSpawner_r_34: -208636224
+      ghostSpawner_r_35: -1240979394
+      ghostSpawner_r_36: 1713220196
+      ghostSpawner_r_37: -523241261
+      ghostSpawner_r_38: 1530680483
+      ghostSpawner_r_39: 86143397
+      ghostSpawner_r_4: -167707485
+      ghostSpawner_r_40: 861107669
+      ghostSpawner_r_41: -1634373324
+      ghostSpawner_r_42: -838819553
+      ghostSpawner_r_43: 1221661967
+      ghostSpawner_r_44: -878936571
+      ghostSpawner_r_45: 20679738
+      ghostSpawner_r_46: -313845164
+      ghostSpawner_r_47: 1332235788
+      ghostSpawner_r_48: -335646759
+      ghostSpawner_r_49: -1943280723
+      ghostSpawner_r_5: 1651722598
+      ghostSpawner_r_50: -1712527486
+      ghostSpawner_r_51: -39874050
+      ghostSpawner_r_52: 587845392
+      ghostSpawner_r_53: -1901327394
+      ghostSpawner_r_54: -93517382
+      ghostSpawner_r_55: 993542809
+      ghostSpawner_r_56: 1332549526
+      ghostSpawner_r_57: 1364224087
+      ghostSpawner_r_58: -1816897484
+      ghostSpawner_r_59: 1859901740
+      ghostSpawner_r_6: 50455173
+      ghostSpawner_r_60: 954836538
+      ghostSpawner_r_61: 972357541
+      ghostSpawner_r_62: -1584705972
+      ghostSpawner_r_63: -1247045991
+      ghostSpawner_r_64: -714256305
+      ghostSpawner_r_65: -1381248084
+      ghostSpawner_r_66: -1266036050
+      ghostSpawner_r_67: -1678082533
+      ghostSpawner_r_68: 829777664
+      ghostSpawner_r_69: -556550079
+      ghostSpawner_r_7: -391548758
+      ghostSpawner_r_70: 310344230
+      ghostSpawner_r_71: 1158550151
+      ghostSpawner_r_72: -910202889
+      ghostSpawner_r_73: 1668093421
+      ghostSpawner_r_74: -1465457152
+      ghostSpawner_r_75: -1987713398
+      ghostSpawner_r_76: 2072275088
+      ghostSpawner_r_77: -1711974933
+      ghostSpawner_r_78: -864477344
+      ghostSpawner_r_79: 1168713863
+      ghostSpawner_r_8: 477802531
+      ghostSpawner_r_80: -880453953
+      ghostSpawner_r_81: 1423689366
+      ghostSpawner_r_82: 176337069
+      ghostSpawner_r_83: -773925039
+      ghostSpawner_r_84: -462112582
+      ghostSpawner_r_85: 1125755985
+      ghostSpawner_r_86: -563000879
+      ghostSpawner_r_87: -870811266
+      ghostSpawner_r_88: 1380104017
+      ghostSpawner_r_89: -119702964
+      ghostSpawner_r_9: 1038449099
+      ghostSpawner_r_90: 1629257780
+      ghostSpawner_r_91: -1095651986
+      ghostSpawner_r_92: 1957348904
+      ghostSpawner_r_93: 771316649
+      ghostSpawner_r_94: -197561281
+      ghostSpawner_r_95: -899252482
+      ghostSpawner_r_96: 1589782143
+      ghostSpawner_r_97: 1219133569
+      ghostSpawner_r_98: 912238108
+      ghostSpawner_r_99: 1663429469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

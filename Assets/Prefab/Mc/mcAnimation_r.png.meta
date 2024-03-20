@@ -1,0 +1,5847 @@
+fileFormatVersion: 2
+guid: de849e1bdfe1d1745ba3f7b458bdac75
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mcAnimation_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fae63b5b1bfe843b589bd926f648f3
+      internalID: 1044590345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0f862a027eb14f9fd1fb3526746ad
+      internalID: -15001171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522fa918383260a43b92a2a8dfb65775
+      internalID: -1231861432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_3
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc11b4a53c146d4b9070749be4d20ec
+      internalID: 409894783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_4
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc2c5b262b55942ba68f2a7f8dfbfd
+      internalID: 1311817184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_5
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d198042c7082aa4a9c5914b842a162d
+      internalID: 1588875007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_6
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c17af2453748349bd0351512bcca9a
+      internalID: -757755470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_7
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7629fecc4f4d4e84e4428b0508fc6
+      internalID: 554963895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_8
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94edb7db9716f1446bbfa32561ff8e6c
+      internalID: 1741935476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_9
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 11159.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80928f244cd671149bc9d77b393ff85b
+      internalID: 1535920722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc954d579248944a2902bdb9b4897d
+      internalID: -1468290451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012baf79e101f26479865fa797a8fcc1
+      internalID: 1721140116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_12
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a4a46b3fef8c448d355086ec19368
+      internalID: 1401719577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_13
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d919f85a87ad24385994ea721bf337
+      internalID: 1969357853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_14
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab8022211e4104d93577475b05266d
+      internalID: 1965548791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_15
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a287eb3807af94fa6f9fdb0ca597d7
+      internalID: 1131552086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_16
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261ec32afa08cc4e908792e006deb1f
+      internalID: 1570375193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_17
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c824b39cd50443bbe5502173a5cab
+      internalID: 1001754160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_18
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc2c26dbf4a7b4e904aef857a5f691
+      internalID: -1214815325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_19
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 10713.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d96acbc6f68a740b023c55004c32fb
+      internalID: 1904519725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb232ac782ff34c4b8742569a3c63510
+      internalID: 1343041827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fe9cdf9e77b043af4165e1471cec5
+      internalID: 1050274582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_22
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f5c83d0e308e4e8924260bb061566
+      internalID: -2029099792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_23
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5712010c5081438a8e051b7e00b05
+      internalID: 447887690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_24
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5a435b251d234db6f923ee143a61f
+      internalID: -876654742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_25
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da235e28600bb6f4a861afd60bb67f57
+      internalID: -1255991227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_26
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c3e94cfb3b874384ac5a2e35581ca
+      internalID: -680110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_27
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c588614531c5049b1d0bce339b3e38
+      internalID: 1098408758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_28
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df8be55aa205e488563ecdf5024b69
+      internalID: -1228021083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_29
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 10267.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f629359db3ea47ac64666aebf6f79
+      internalID: -1081682577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be98e39b1f9f749a847234589a84de
+      internalID: -266624925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b9353b2cb1ce64792a9251cda428c2
+      internalID: -1802308074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d043ec3218ac074d878041fab15059c
+      internalID: -650797754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_33
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17001f151d149429c94be0860f3f74
+      internalID: 1997748910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_34
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54b53d61260d94bbf4916795f8de47
+      internalID: 38571739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_35
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523c811013a96b4984d07868fcc2f1b
+      internalID: -398420076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_36
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59aa09dd0c46b41a63285c53faf4a2
+      internalID: -618902960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_37
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0d1b4884307948911b04493127332
+      internalID: 1897119743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_38
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf69bdcbbde07e48bb41d1bea7d7e3a
+      internalID: -1212514003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_39
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 9821.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f3a659cf517054ab42c870a152dc3e
+      internalID: 1726698227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a8cae5d2ae07448d1a1b97f91ea16
+      internalID: 59200660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064411e91850b764d92ec26bb8b69c6b
+      internalID: -1570453829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_42
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ca3a246a6e784cb05e5f24f34a62f
+      internalID: 180540955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_43
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb823b42d487394ebeba616cc1e7eea
+      internalID: -1200501779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_44
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f216b4db25db4cacb901fc3766228
+      internalID: -2103130830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_45
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acfd3f06c660414cb0b44d32fe50362
+      internalID: 1406086936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_46
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e2c05e87be962418f830547c93874f
+      internalID: 850051188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_47
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916cec6097a5d74cb1956f16265c969
+      internalID: -1232298405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_48
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105c473447328ce4a9c878f8782e805f
+      internalID: 1931218356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_49
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 9375.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b34fb098a3fd47b152d02cc1e6d98
+      internalID: -989855388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f177e88d92e634f8f9957fe0a38ee3
+      internalID: -967297456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_51
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcee7f50ff305f4b9bf1cad8824caef
+      internalID: -1545165528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_52
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bba9936a62109418c2c8be77d28a5f
+      internalID: 1854465260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_53
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa638addddd044e8e8fde7e03ec997
+      internalID: 1864440277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_54
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e445aed743499e3418ea7f0d0fb458da
+      internalID: 2139559151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_55
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559c91029c3c3645872233e6926c289
+      internalID: -346677246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_56
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2fc393aaa2594c88498382f6b6bd1
+      internalID: -576235666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_57
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c403f339d7b04bad549c83ee8536f
+      internalID: 782020531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_58
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace52b0d0d625404ba7ea699e438ded4
+      internalID: 1035872259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_59
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 8929.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e300fa90211bb814699506c2d9dd65a6
+      internalID: 1603939351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2f7a25bbc2c04e90ee6a1ce243c5a
+      internalID: -1799735995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109cfd5767080c54aada2083b4bf4855
+      internalID: -754579878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_62
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5902c37f94b788449a93377ea9071f7
+      internalID: 2058726570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_63
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4980cbb12e94b43bc4979caa5b36d5
+      internalID: -2054082998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_64
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b1b2899a4d924eb0f1cf4b52085bb
+      internalID: 570696932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_65
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d686572f02dbe49aa38fdf4e0a83e3
+      internalID: 1408043666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_66
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd040d7e30dba44386519be0f8fd2bd
+      internalID: 555685740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_67
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436ea859b8ab0644abc51c7620a7824
+      internalID: -805582816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_68
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091687cba6b9744a95922fa8e170780
+      internalID: 1005674229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_69
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 8483.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043cca665807d646ba68af98fd48dc1
+      internalID: -1577925464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249bf57f44d33f48a42a7dc4ac8ccd0
+      internalID: 1198059991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204aeab30459c2409995c4677b3ff54
+      internalID: 2050165510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_72
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7dd37413343144a543c09b529e859
+      internalID: -1129265295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_73
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b26e5ee1aab94dbedffdab5c3d52b
+      internalID: -1434956495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_74
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06929a54741a5f43a0ecd1c55ebf402
+      internalID: 1757641402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_75
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab856eb540ccd834bb57367950f4afe9
+      internalID: -1175232252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_76
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f7752cb56a39438292c8507524635
+      internalID: -588182961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_77
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c0d14c298b6b4683724001a10560a
+      internalID: -1807730176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_78
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b3747469cfd44fbe53cd2873c17d1
+      internalID: -699828314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_79
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 8037.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7c3c15e9620f48ad6bd69bd1b4d5a
+      internalID: -163081149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9049152b78a44ea49cdff7b42c860
+      internalID: 1575225424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_81
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c319d7e67bb0044b2b35224d056835
+      internalID: 1965352425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_82
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76022f59707a6cf43883393ebe20f612
+      internalID: -1289347928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_83
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26039cf934bad9c4bb33f8575b199820
+      internalID: 116488051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_84
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622979760e499dd4ca5ab7007dd48356
+      internalID: 1754957189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_85
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8babc3f727a91d4e9ce2b040c37aace
+      internalID: -1250641592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_86
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7cf6791b942a4987d38efde637d12
+      internalID: 1555958635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_87
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087d02bd9a42aa4fbd3449831ddc4ad
+      internalID: 210129730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_88
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf36ca8482a87304f8e4af37b3ad9fd7
+      internalID: -102323740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_89
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 7591.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77c8a73d2b9f64f8a091282a3da255
+      internalID: -239232690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ced552a3108a4ea85d3bc8617761d
+      internalID: 561635313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_91
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21f71b05ea5914cb130736d5ae1b6c
+      internalID: 1653624888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_92
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f24ee2ddf19348a27036d2c7c6d48
+      internalID: -1466042913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_93
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24334eaadd46ae4891237e4511c8f6d
+      internalID: 1840982848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_94
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b77150bb131c944bd5001d7857f875
+      internalID: 206207806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_95
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2962f6e75900141809b37186697f2e
+      internalID: -1309758171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_96
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c897e2b3a48b84a9405f2f3d0d5c88
+      internalID: 672324367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_97
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2633c60457c2e4c847d39469deb869
+      internalID: 205357531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_98
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3848c511731542b3eb7f237171d1c
+      internalID: 1298525462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_99
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 7145.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756ab7150f882940a185d9f16ef4a23
+      internalID: -1994468739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59956bdf93a3a06429784e329d5749a6
+      internalID: 325007371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae286cf432f644c4bb0c3937c208159c
+      internalID: -1363472558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_102
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0362b0c9fd7d5448afc855bbcb20144
+      internalID: -2064391836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_103
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537656fd89dc2c459d9b52d40440f4b
+      internalID: 1444649744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_104
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0f90b09e140d42a8646a49f597c8a
+      internalID: -184207099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_105
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ea1e43bd67bd4297a1770f3a5c4ef
+      internalID: -88481532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_106
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50999ec5ff1e8bb4dbf83e99e2f22313
+      internalID: 1430712689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_107
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee37e65f544124e9e2a06a2af037b5
+      internalID: 776507897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_108
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7051c07dadcd6469f113e7e071412b
+      internalID: -1572152572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_109
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 6699.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5131cc980362469eba4120886443d
+      internalID: -1327215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0035241749fc94889836c67510f6dc
+      internalID: 1454538216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_111
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075c2198730f274186b1fb60837b688
+      internalID: 1324153602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_112
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34713568c0ddd7b4f8b3040921740a9c
+      internalID: -502015886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_113
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a214bd90be48284cb7d4cf685824013
+      internalID: -144988141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_114
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2675634c2a25d4c97d195dd8ae0c53
+      internalID: -155512315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_115
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb155c4f789f6a468c5444652bae7ec
+      internalID: -1420139337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_116
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad47ff6226a3d4f8abaf91214e2809
+      internalID: -1486654127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_117
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61e155fa245af4a83cc11146adf85a
+      internalID: 1534882028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_118
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bab6e2f25aa04c9666673e14196bb
+      internalID: -93982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_119
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 6253.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8c1723ee110e547b7528142ec06571
+      internalID: -1761025220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57aa13457ebb7343979e5100eea74c0
+      internalID: -84295468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_121
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569ddb4fb51385469d72638375ee8a7
+      internalID: 910764702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_122
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd955b91f3a7ba6449d7122178ad8eb4
+      internalID: 501727395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_123
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea5973a240796418405fa2caaa7d14
+      internalID: -1373681143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_124
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e63265f8071243862938df2a13d6f
+      internalID: -785862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_125
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba519de5c04104eb8fea6274ee3e85
+      internalID: -1317466200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_126
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee48c00da605848813d4fe6fe670f1
+      internalID: 2089983122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_127
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946630fa525fc684692ac089730638b2
+      internalID: 1073939641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_128
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a38f2fb43f83f48a55197be4213a76
+      internalID: -852645999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_129
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 5807.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bd55be3f49cd489003e7e28e9050d
+      internalID: 1412690525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568af450181d144faf784ad68fe087c
+      internalID: -664944195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_131
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b516d9796a51b44998bf3b18e4adec2
+      internalID: 1272837742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_132
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf378769cc3b564ca0f075b523f3449
+      internalID: 1064834795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_133
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde737c4654acf409f1e9f46143bd3e
+      internalID: -1866874085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_134
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97fc5cd58cbed945b692723ffa98a18
+      internalID: 252371487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_135
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df925d02c00bbd94eb77de985508a7e3
+      internalID: -979096714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_136
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c38ffd3d8a4a9549905f5434689bc2b
+      internalID: -471993220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_137
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5793fb9ca680645abf9d0b65783e91
+      internalID: -712391577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_138
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e90bc843cd74478d3caeef66dea90
+      internalID: -740079729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_139
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 5361.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf1131b1ff12543b5c48195222ee88
+      internalID: -2069255481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc82562e1a77cb46b197f852acca3e4
+      internalID: -120669615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_141
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2455c53a7ddda42bc2fd897a1f3808
+      internalID: 1466931663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_142
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36b0918c7361341a05ea44c33f6a23
+      internalID: -1745077310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_143
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37becb16fd8de8640be8bebdc1b46393
+      internalID: 1918658148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_144
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecd004b3f92234eaf97c1f0eb962a4
+      internalID: -1365792057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_145
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474de406409706c4b8aadfd15087f3a3
+      internalID: -1653533846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_146
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54529d8afd755943a75960a4112f3b0
+      internalID: -945145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_147
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e6999cc459a64e8358a03ef891e47
+      internalID: 1470103285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_148
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b33bd2c3d53924995cf70b1ac24e8c
+      internalID: 1059458792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_149
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 4915.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7942d1af3324a4da463c0cb2a025b9
+      internalID: 1888437640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a796793a126246977fe1bac5ae9b4
+      internalID: 373537184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_151
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87dcebf96ca5e428989eecceedc22f
+      internalID: -2037671894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_152
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf003b6f2941045bf30a950841648c
+      internalID: 336583054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_153
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5fd187c3b198d4fa5499047726e424
+      internalID: -11189220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_154
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e26829bbe53a984b83e17cb81c65a77
+      internalID: -291769600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_155
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30868d177f2f2c844a77f0f21a4fd31b
+      internalID: 193207429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_156
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637a79e5473263479058c4703379f27
+      internalID: 1721364008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_157
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01b548a2deaa24a9f59c484ec396de
+      internalID: 2086308860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_158
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f501b78b86e082469396d4f2257760f
+      internalID: 1092438370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_159
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 4469.615
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d7ffe936062b48919528cdaee2347
+      internalID: 1703490093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530943695628bcb4b8ff1e40b1439c10
+      internalID: -165687784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_161
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0bb1126f827bf4e860af22f3947ef2
+      internalID: -450383865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_162
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86751017b4955dd4dbfd97cebfeb79af
+      internalID: 964400297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_163
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c747294aa8019c47a394fae21b86665
+      internalID: 174585728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_164
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6de9eca6c5ef94b948865fd43200fc
+      internalID: 1923161055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_165
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a9a208d2de214086362b0e146776d
+      internalID: 1867865560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_166
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9e8eeb28800e644b59e329405f21bb
+      internalID: 1389943570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_167
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0977d77220eb1419595de297a1762e
+      internalID: 1281845061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_168
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7a0a41b1dbf94886ee09b4c214b36
+      internalID: 10960778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_169
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 4023.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4a88001ad27d42aa41e7595127af9
+      internalID: 1813962463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e4b65557d06c458894fa18a9af3c0
+      internalID: -299898030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_171
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff6c13aeef0314418b602aefb4ef307
+      internalID: 2108127135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_172
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d2d10ec020e074ea8bffe78dc77f5c
+      internalID: -1518269793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_173
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd39e8c2ec3b9d418681bc096181aeb
+      internalID: -333417039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_174
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c4f27062f5f243a7c851593059271
+      internalID: -986478352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_175
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab642e64d7dfa744abf86d9de1651190
+      internalID: -1973937861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_176
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799e0adeec34cd46a5dafc2c5c0a0ae
+      internalID: 1659991823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_177
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9335da04d664de4dba6bc7d08fb3abf
+      internalID: 1504332772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_178
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303bae0a9a46dd049b1a4a036f50ba18
+      internalID: -1163941451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_179
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 3577.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f8e6a688fc0442b25eb3c15eeebb0
+      internalID: 582668672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd980fa044bb404ba7d661018c05f1f
+      internalID: 1050445932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_181
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cb71f78afebdc46ac2a660dada9145
+      internalID: -796711974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_182
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08de01b44d90d43984aed37015dace
+      internalID: 1244069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_183
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df387c9ab406a834383c3ff3fba72377
+      internalID: -1668406934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_184
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9769e4901430d3844aae8ea4ed9aa8fb
+      internalID: -206068050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_185
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e01daa9582e24eaab7ef999472046
+      internalID: -1151921533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_186
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee36f1f89165e348b936109547cba77
+      internalID: -1632510242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_187
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8d5c0160a028b468cb8ee7c2520c72
+      internalID: -720398450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_188
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dea6217cd5cad4c9a8b27692425d4f
+      internalID: -952036602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_189
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 3131.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7736557167b6964582a464cc5076624
+      internalID: -24192298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bad29d33307944c98dfcf6527d9543
+      internalID: 654245039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_191
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20895cdc77c004e99f3a3a12c41bd7
+      internalID: 2063578016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_192
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3a79dded4a9f47b392cfa181a2bac
+      internalID: 1468272483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_193
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89580d8288615d4688bbc4c9ff56750
+      internalID: 558547139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_194
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7017c7dd032e347b08d479cb2c84fe
+      internalID: 411120809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_195
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a61bc1b58540458108f1f0bd181df
+      internalID: -130857239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_196
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf49998a9a9ac344abe9ecf04ec5230
+      internalID: -764718463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_197
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c57d50cae2b948b594b776a4cc79f
+      internalID: 1037505060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_198
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02302f31811b0a4da774ed702f7448f
+      internalID: -610043265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_199
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2685.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8360a19867864f913b766fc872f6b
+      internalID: 705964453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87a184bd7b6344ea899824bc0066c4
+      internalID: -357599604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_201
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ff596cc98c1dd458beb030c95d9e4d
+      internalID: 1553482740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_202
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29b77398fc858479f7ec080956aeb4
+      internalID: 217846548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_203
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45944189c600448a6610b2bcce6f8a
+      internalID: 676792588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_204
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685486c3b7981249b9bc058abd1d71d
+      internalID: -1335203723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_205
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908b81151cc6ba145aabf6345483ef6e
+      internalID: 924077256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_206
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2b265109498f46b2193859037657e
+      internalID: -499046211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_207
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4e235705cff494cb91a4f789231679
+      internalID: 1014053278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_208
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018e60e92bcb2842bdeb6e2325b5ad7
+      internalID: -1280410739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_209
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2239.6155
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745f7cc807d38845bbbba35a9d726d4
+      internalID: -76521932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b6709809665e428a18c5f2ae89a3c
+      internalID: -279031420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_211
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff3934535133184ea25f294625a244b
+      internalID: -431999838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_212
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fbeee81fce05c48ba7fa863c066794
+      internalID: -1659040037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_213
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61753a5a8f61bc046a3e8df3409621a8
+      internalID: 219039084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_214
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d64ad0ec7451846b13015ff0ca3b12
+      internalID: -167118288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_215
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6610889fffc2842bdeec1b64d0d876
+      internalID: -1551493585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_216
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213169bd9dcbff499ccb4dae269e976
+      internalID: 985770585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_217
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074b38018344734590375fc73842dbc
+      internalID: -981747229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_218
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c7254f5083ce48874e0fb68b37e00
+      internalID: 493818158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_219
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 1793.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9bda6c0cd5614e9848740f7742eb7
+      internalID: 994934492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ecc16f77f976943be7a217a9c2c76a
+      internalID: -1491965516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_221
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afffcdaa3a8fd040b114891689d6f27
+      internalID: -1941129740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_222
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bfcf5a382704f40abad00a4c3e00d2
+      internalID: -1393092587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_223
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81777d88a3943ca42817b01dd29405d5
+      internalID: 1401928085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_224
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faed78fcf877fa42b0fa8b42e1aab1a
+      internalID: -1409677826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_225
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efaddc0ce677d64587b99151e2dd390
+      internalID: -1956145000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_226
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c39af2044f5f0b43b6c832dbadd8bfe
+      internalID: -78994911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_227
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd659768ee8994bb6494c67bb60995
+      internalID: -1128283121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_228
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52a82724db8834cb97a18095866973
+      internalID: -1470491398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_229
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 1347.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f839ab56cea6499428014490650f0
+      internalID: -975588175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ea240e58701248b3c562516b26da6
+      internalID: -707130679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_231
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e303ff1db41941a70abd5b52f8e80
+      internalID: 1786009922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_232
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b648ba0078c954cb0e4a5a6f57683b
+      internalID: -1096067239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_233
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce9afd23e6ce14596b9a41d01354ec
+      internalID: 1440900138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_234
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29401dc789f8cf46a7c04d012ba2f3b
+      internalID: -1457563861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_235
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075babde2d6aba408896293c800e7ba
+      internalID: -461667526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_236
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d026eca224744a91626378d0cc3c9
+      internalID: 47694207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_237
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4bec121dc507f41a60e74c4ba3a6c1
+      internalID: -790091070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_238
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ac922d248a124ba6cda9c910dd8fd
+      internalID: 756971088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_239
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 901.61536
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e2a58e1d2ef8449b77cde81c72745
+      internalID: -1093786227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c300108bf1aff4d92e45f776959139
+      internalID: 1027283891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_241
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a4092c03b60e042bb9e0979f5468a4
+      internalID: 1965816241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_242
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a0cbc9259b10408db3f76f63ead9c
+      internalID: -1635550089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_243
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033583e7c65dfd40918334bac2d6745
+      internalID: 1255497751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_244
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e9a2b16e286a4399014c5f54845e5
+      internalID: -832055935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_245
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b24a139d161b4ca9153ce537bef5f
+      internalID: 982209293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_246
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af32fd541e05b6648a8e2d637d0dff9d
+      internalID: -1834388796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_247
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44b199c29520a44a56343debad0cac
+      internalID: 1530077085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_248
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9db16a65fe1f4380c4465528d4a8f
+      internalID: 1766984940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_249
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 455.6154
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8304d1ce6ad252b479b9d0e0349b64bd
+      internalID: 1250673662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf755f2ba697686419b1a0f2848ed2f3
+      internalID: -754646520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_251
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966903001c3be2c4ba85e3de9269ba73
+      internalID: 1074557770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_252
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489033fce96ccd4586bcb9f0516aec1
+      internalID: 1512342177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_253
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c44f0eae9209140990546d489f126c
+      internalID: -1117328540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_254
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617330f80c702e46a26b239d55ce5ff
+      internalID: 1835394985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_255
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6172ef39a480040ac05bcd14c0c422
+      internalID: -1757222321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_256
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665317216241484195fe71af626e2dc
+      internalID: -1033753253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_257
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2f02563975414eb9765d249e81a02
+      internalID: -1182528340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_258
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e5e1a3edd2944cac4eef5fa873c2b
+      internalID: -1321574897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcAnimation_r_259
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 9.615387
+        width: 446.4
+        height: 446.3846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d52dd3cffd800f4ab42fb34a2fdee79
+      internalID: -820935486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b48ea3d38f32bdb4993c6884bd00e847
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mcAnimation_r_0: 1044590345
+      mcAnimation_r_1: -15001171
+      mcAnimation_r_10: -1468290451
+      mcAnimation_r_100: 325007371
+      mcAnimation_r_101: -1363472558
+      mcAnimation_r_102: -2064391836
+      mcAnimation_r_103: 1444649744
+      mcAnimation_r_104: -184207099
+      mcAnimation_r_105: -88481532
+      mcAnimation_r_106: 1430712689
+      mcAnimation_r_107: 776507897
+      mcAnimation_r_108: -1572152572
+      mcAnimation_r_109: -1327215446
+      mcAnimation_r_11: 1721140116
+      mcAnimation_r_110: 1454538216
+      mcAnimation_r_111: 1324153602
+      mcAnimation_r_112: -502015886
+      mcAnimation_r_113: -144988141
+      mcAnimation_r_114: -155512315
+      mcAnimation_r_115: -1420139337
+      mcAnimation_r_116: -1486654127
+      mcAnimation_r_117: 1534882028
+      mcAnimation_r_118: -93982815
+      mcAnimation_r_119: -1761025220
+      mcAnimation_r_12: 1401719577
+      mcAnimation_r_120: -84295468
+      mcAnimation_r_121: 910764702
+      mcAnimation_r_122: 501727395
+      mcAnimation_r_123: -1373681143
+      mcAnimation_r_124: -785862738
+      mcAnimation_r_125: -1317466200
+      mcAnimation_r_126: 2089983122
+      mcAnimation_r_127: 1073939641
+      mcAnimation_r_128: -852645999
+      mcAnimation_r_129: 1412690525
+      mcAnimation_r_13: 1969357853
+      mcAnimation_r_130: -664944195
+      mcAnimation_r_131: 1272837742
+      mcAnimation_r_132: 1064834795
+      mcAnimation_r_133: -1866874085
+      mcAnimation_r_134: 252371487
+      mcAnimation_r_135: -979096714
+      mcAnimation_r_136: -471993220
+      mcAnimation_r_137: -712391577
+      mcAnimation_r_138: -740079729
+      mcAnimation_r_139: -2069255481
+      mcAnimation_r_14: 1965548791
+      mcAnimation_r_140: -120669615
+      mcAnimation_r_141: 1466931663
+      mcAnimation_r_142: -1745077310
+      mcAnimation_r_143: 1918658148
+      mcAnimation_r_144: -1365792057
+      mcAnimation_r_145: -1653533846
+      mcAnimation_r_146: -945145737
+      mcAnimation_r_147: 1470103285
+      mcAnimation_r_148: 1059458792
+      mcAnimation_r_149: 1888437640
+      mcAnimation_r_15: 1131552086
+      mcAnimation_r_150: 373537184
+      mcAnimation_r_151: -2037671894
+      mcAnimation_r_152: 336583054
+      mcAnimation_r_153: -11189220
+      mcAnimation_r_154: -291769600
+      mcAnimation_r_155: 193207429
+      mcAnimation_r_156: 1721364008
+      mcAnimation_r_157: 2086308860
+      mcAnimation_r_158: 1092438370
+      mcAnimation_r_159: 1703490093
+      mcAnimation_r_16: 1570375193
+      mcAnimation_r_160: -165687784
+      mcAnimation_r_161: -450383865
+      mcAnimation_r_162: 964400297
+      mcAnimation_r_163: 174585728
+      mcAnimation_r_164: 1923161055
+      mcAnimation_r_165: 1867865560
+      mcAnimation_r_166: 1389943570
+      mcAnimation_r_167: 1281845061
+      mcAnimation_r_168: 10960778
+      mcAnimation_r_169: 1813962463
+      mcAnimation_r_17: 1001754160
+      mcAnimation_r_170: -299898030
+      mcAnimation_r_171: 2108127135
+      mcAnimation_r_172: -1518269793
+      mcAnimation_r_173: -333417039
+      mcAnimation_r_174: -986478352
+      mcAnimation_r_175: -1973937861
+      mcAnimation_r_176: 1659991823
+      mcAnimation_r_177: 1504332772
+      mcAnimation_r_178: -1163941451
+      mcAnimation_r_179: 582668672
+      mcAnimation_r_18: -1214815325
+      mcAnimation_r_180: 1050445932
+      mcAnimation_r_181: -796711974
+      mcAnimation_r_182: 1244069658
+      mcAnimation_r_183: -1668406934
+      mcAnimation_r_184: -206068050
+      mcAnimation_r_185: -1151921533
+      mcAnimation_r_186: -1632510242
+      mcAnimation_r_187: -720398450
+      mcAnimation_r_188: -952036602
+      mcAnimation_r_189: -24192298
+      mcAnimation_r_19: 1904519725
+      mcAnimation_r_190: 654245039
+      mcAnimation_r_191: 2063578016
+      mcAnimation_r_192: 1468272483
+      mcAnimation_r_193: 558547139
+      mcAnimation_r_194: 411120809
+      mcAnimation_r_195: -130857239
+      mcAnimation_r_196: -764718463
+      mcAnimation_r_197: 1037505060
+      mcAnimation_r_198: -610043265
+      mcAnimation_r_199: 705964453
+      mcAnimation_r_2: -1231861432
+      mcAnimation_r_20: 1343041827
+      mcAnimation_r_200: -357599604
+      mcAnimation_r_201: 1553482740
+      mcAnimation_r_202: 217846548
+      mcAnimation_r_203: 676792588
+      mcAnimation_r_204: -1335203723
+      mcAnimation_r_205: 924077256
+      mcAnimation_r_206: -499046211
+      mcAnimation_r_207: 1014053278
+      mcAnimation_r_208: -1280410739
+      mcAnimation_r_209: -76521932
+      mcAnimation_r_21: 1050274582
+      mcAnimation_r_210: -279031420
+      mcAnimation_r_211: -431999838
+      mcAnimation_r_212: -1659040037
+      mcAnimation_r_213: 219039084
+      mcAnimation_r_214: -167118288
+      mcAnimation_r_215: -1551493585
+      mcAnimation_r_216: 985770585
+      mcAnimation_r_217: -981747229
+      mcAnimation_r_218: 493818158
+      mcAnimation_r_219: 994934492
+      mcAnimation_r_22: -2029099792
+      mcAnimation_r_220: -1491965516
+      mcAnimation_r_221: -1941129740
+      mcAnimation_r_222: -1393092587
+      mcAnimation_r_223: 1401928085
+      mcAnimation_r_224: -1409677826
+      mcAnimation_r_225: -1956145000
+      mcAnimation_r_226: -78994911
+      mcAnimation_r_227: -1128283121
+      mcAnimation_r_228: -1470491398
+      mcAnimation_r_229: -975588175
+      mcAnimation_r_23: 447887690
+      mcAnimation_r_230: -707130679
+      mcAnimation_r_231: 1786009922
+      mcAnimation_r_232: -1096067239
+      mcAnimation_r_233: 1440900138
+      mcAnimation_r_234: -1457563861
+      mcAnimation_r_235: -461667526
+      mcAnimation_r_236: 47694207
+      mcAnimation_r_237: -790091070
+      mcAnimation_r_238: 756971088
+      mcAnimation_r_239: -1093786227
+      mcAnimation_r_24: -876654742
+      mcAnimation_r_240: 1027283891
+      mcAnimation_r_241: 1965816241
+      mcAnimation_r_242: -1635550089
+      mcAnimation_r_243: 1255497751
+      mcAnimation_r_244: -832055935
+      mcAnimation_r_245: 982209293
+      mcAnimation_r_246: -1834388796
+      mcAnimation_r_247: 1530077085
+      mcAnimation_r_248: 1766984940
+      mcAnimation_r_249: 1250673662
+      mcAnimation_r_25: -1255991227
+      mcAnimation_r_250: -754646520
+      mcAnimation_r_251: 1074557770
+      mcAnimation_r_252: 1512342177
+      mcAnimation_r_253: -1117328540
+      mcAnimation_r_254: 1835394985
+      mcAnimation_r_255: -1757222321
+      mcAnimation_r_256: -1033753253
+      mcAnimation_r_257: -1182528340
+      mcAnimation_r_258: -1321574897
+      mcAnimation_r_259: -820935486
+      mcAnimation_r_26: -680110229
+      mcAnimation_r_27: 1098408758
+      mcAnimation_r_28: -1228021083
+      mcAnimation_r_29: -1081682577
+      mcAnimation_r_3: 409894783
+      mcAnimation_r_30: -266624925
+      mcAnimation_r_31: -1802308074
+      mcAnimation_r_32: -650797754
+      mcAnimation_r_33: 1997748910
+      mcAnimation_r_34: 38571739
+      mcAnimation_r_35: -398420076
+      mcAnimation_r_36: -618902960
+      mcAnimation_r_37: 1897119743
+      mcAnimation_r_38: -1212514003
+      mcAnimation_r_39: 1726698227
+      mcAnimation_r_4: 1311817184
+      mcAnimation_r_40: 59200660
+      mcAnimation_r_41: -1570453829
+      mcAnimation_r_42: 180540955
+      mcAnimation_r_43: -1200501779
+      mcAnimation_r_44: -2103130830
+      mcAnimation_r_45: 1406086936
+      mcAnimation_r_46: 850051188
+      mcAnimation_r_47: -1232298405
+      mcAnimation_r_48: 1931218356
+      mcAnimation_r_49: -989855388
+      mcAnimation_r_5: 1588875007
+      mcAnimation_r_50: -967297456
+      mcAnimation_r_51: -1545165528
+      mcAnimation_r_52: 1854465260
+      mcAnimation_r_53: 1864440277
+      mcAnimation_r_54: 2139559151
+      mcAnimation_r_55: -346677246
+      mcAnimation_r_56: -576235666
+      mcAnimation_r_57: 782020531
+      mcAnimation_r_58: 1035872259
+      mcAnimation_r_59: 1603939351
+      mcAnimation_r_6: -757755470
+      mcAnimation_r_60: -1799735995
+      mcAnimation_r_61: -754579878
+      mcAnimation_r_62: 2058726570
+      mcAnimation_r_63: -2054082998
+      mcAnimation_r_64: 570696932
+      mcAnimation_r_65: 1408043666
+      mcAnimation_r_66: 555685740
+      mcAnimation_r_67: -805582816
+      mcAnimation_r_68: 1005674229
+      mcAnimation_r_69: -1577925464
+      mcAnimation_r_7: 554963895
+      mcAnimation_r_70: 1198059991
+      mcAnimation_r_71: 2050165510
+      mcAnimation_r_72: -1129265295
+      mcAnimation_r_73: -1434956495
+      mcAnimation_r_74: 1757641402
+      mcAnimation_r_75: -1175232252
+      mcAnimation_r_76: -588182961
+      mcAnimation_r_77: -1807730176
+      mcAnimation_r_78: -699828314
+      mcAnimation_r_79: -163081149
+      mcAnimation_r_8: 1741935476
+      mcAnimation_r_80: 1575225424
+      mcAnimation_r_81: 1965352425
+      mcAnimation_r_82: -1289347928
+      mcAnimation_r_83: 116488051
+      mcAnimation_r_84: 1754957189
+      mcAnimation_r_85: -1250641592
+      mcAnimation_r_86: 1555958635
+      mcAnimation_r_87: 210129730
+      mcAnimation_r_88: -102323740
+      mcAnimation_r_89: -239232690
+      mcAnimation_r_9: 1535920722
+      mcAnimation_r_90: 561635313
+      mcAnimation_r_91: 1653624888
+      mcAnimation_r_92: -1466042913
+      mcAnimation_r_93: 1840982848
+      mcAnimation_r_94: 206207806
+      mcAnimation_r_95: -1309758171
+      mcAnimation_r_96: 672324367
+      mcAnimation_r_97: 205357531
+      mcAnimation_r_98: 1298525462
+      mcAnimation_r_99: -1994468739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

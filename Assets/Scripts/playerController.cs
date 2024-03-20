@@ -21,6 +21,8 @@ public class playerController : MonoBehaviour
 
     float time;
 
+    public Animator animator;
+
 
     // Start is called before the first frame update
     void Start()
@@ -44,6 +46,9 @@ public class playerController : MonoBehaviour
         movement = new Vector3 (horizontalInput, 0, verticalInput) * playerSpeed * Time.deltaTime;
 
         transform.position += movement;
+        animator.SetFloat("Speed", Mathf.Abs(movement.x) + Mathf.Abs(movement.z));
+        animator.SetBool("Iswalk", true);
+
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -76,6 +81,7 @@ public class playerController : MonoBehaviour
         if (hpAmount <= 0)
         {
             Isdead = true;
+            animator.SetBool("Isdead", true);
             Destroy(gameObject);
             Debug.Log("You died!!");
         }

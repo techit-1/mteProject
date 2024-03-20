@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 5d77395333f102145bdd139f83ec1f43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mcIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa3cb5c83aa3f49be2ee48b1121ad5
+      internalID: 453253946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64542df8811dc354283c69847cd52186
+      internalID: -891482617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40f1f5fcf87db48b7e85922778f583
+      internalID: -390822246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_3
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911f348787eb2642829e103287f5fda
+      internalID: -146058392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_4
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e2ae11e83b5248940199d74bfcbda
+      internalID: 545950917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_5
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a16bad57dfce847a16ba2ecce866ca
+      internalID: 929298160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_6
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98426dcdf93244e438d1f2b689bb7669
+      internalID: 1237947306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_7
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22b1347c8729a42b04082b46e50783
+      internalID: -111290971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_8
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d231c6842a4e6143b0260f0fc8f28a7
+      internalID: 2007156663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_9
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 8928
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a298b939358f2459136fa0ec25c919
+      internalID: 1753001639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91790c0bf6417384e8e19070b9cc033b
+      internalID: -1405671985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0a51c90889ab4baee82352f56f377
+      internalID: -1764876451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a4b224566ed16468dfb557fc6fc290
+      internalID: -364851323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_13
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a720da18c89dab4cab8649e2c71adda
+      internalID: -820109128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38009637c1752b34f99d2b232644f872
+      internalID: 98274966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_15
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4fb5c6cbca8e648bfe388e82865363
+      internalID: -1329226113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_16
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c069ccfa04a04b973396d94164aa2
+      internalID: 1052087174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_17
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6934323d3b8f90a4fbf6cea9383a3d01
+      internalID: 1331774939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_18
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61efcb9d5b4c8746a4b781e2aa6d1dd
+      internalID: 1100811874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_19
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 8184
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf100e650d5824f9cd3c665df0313e
+      internalID: 1679080386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6976386a2f4e43a19d4e0cbe13c25
+      internalID: -998904212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c44af423000b428bcbddb88dbccea
+      internalID: -1517348392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708742b97eb73944889f6043e3b3a50
+      internalID: 251197073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_23
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e451a2f03836740a157aeb850d1fe4
+      internalID: 873872537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_24
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a573c066ac33408b7893f27856662
+      internalID: -1823160213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_25
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6cb1dab0e21d142bc8506fbe14d032
+      internalID: -375516539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_26
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535c2cf1499b4942a7a60fae75f7bef
+      internalID: -71521518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_27
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43e16450853c4c4680d7ff25388078b
+      internalID: 1982413181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_28
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44efc5efb20dba4a9f95d89d7741c46
+      internalID: 1537965043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_29
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 7440
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6f9f4ca1380f4bb88a4f26e87b1b6
+      internalID: -847940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4bdc67aed73c449b67be71e3d3af2
+      internalID: -1169442896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_31
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda6a4d7bb360dd4ba39a5cf41047c6c
+      internalID: -770172864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe246c60aab5942aed9328029a3308
+      internalID: 1622590322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_33
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549ec803584763245acef22d80fa47b4
+      internalID: 328655815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_34
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7d1d9ec6513d4986544018149c467
+      internalID: 1354188600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_35
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8efa7f87e7524e9665f0d5f7f09fd
+      internalID: -1363352868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_36
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658174811005924dbfc720624557f58
+      internalID: 1576855145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_37
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae292fe68821fd241a7272def3117ceb
+      internalID: -1559601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_38
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b37c136c0c67445acd972aaac198b2
+      internalID: -233400256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_39
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 6696
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea0fa70f660074ab14dafda3a7714a
+      internalID: 2113811700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb5a445feec0c4cad631cef843b6b5
+      internalID: 1009743117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_41
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6c78e82602f24bacc022262fe0b7f
+      internalID: -2032762199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_42
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f716ff0878c9489bbf8d46d8a3376
+      internalID: 727211898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_43
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6dc026f6d37c244b6455bdd90877b6
+      internalID: -651480941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_44
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690cfc0524670040a7f7b7154ce6234
+      internalID: -1120835407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_45
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d22abb7007c108498bfa26480d868b9
+      internalID: 1536809265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_46
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191e796feb42ee4cab6030facc4937d
+      internalID: -1346926200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_47
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79395f2e5c084f143bc9005c4011e91d
+      internalID: 192334551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_48
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac802938f9d0044fbfd423016907a6f
+      internalID: -684338947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_49
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 5952
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86466be3ecbe4f14d89e5c4d9204ed89
+      internalID: 1295612416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a596a3a1079bf0a47ac0336519bd73a5
+      internalID: 1231334365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6290ceab26f8643920946a0fe4eb80
+      internalID: 1619986540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_52
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164330c6dd51c4a419db99b984da6718
+      internalID: 1280879645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_53
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa664cd72485d84e9427b882fa9b7f5
+      internalID: 1286289798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_54
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127413817889114d8c5b8d3990ea942
+      internalID: 1662970654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_55
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806ad5f710a3af47bf8afcbc68be8fb
+      internalID: 2007384995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_56
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5875741932b8c54188d4701aaabafc0
+      internalID: 367401968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_57
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52774d92a64cd25438bd4f5040f7cee1
+      internalID: -338222377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_58
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203ae2e8bd27a84480d030fcf20abc4
+      internalID: -961335077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_59
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 5208
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5b9b357afeb54eb07b4dca7620843
+      internalID: -772380387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e40be77305dfd4398cc5a5475bb275
+      internalID: 670738704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_61
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b62561250f773b46bbd2d9b310ec3b6
+      internalID: -2137184222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_62
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb8c53a0162ad46a0b07cc48a39189
+      internalID: -838302239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_63
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ba5fe631d9974391de7dc89bffcd5
+      internalID: -1829891599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_64
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53986f88835f3a74db1722b04874542e
+      internalID: 64696697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_65
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985d4fa677fa8a41a06c28b3ca8dc88
+      internalID: 34767027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_66
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881e1f04927f2f4a960f85a5a772a5d
+      internalID: 494022057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_67
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d126cec2b569ae49ae07481e8831590
+      internalID: -1029426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_68
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e3ccec0b68694d99a7dab59d90c43
+      internalID: -1504094120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_69
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 4464
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac1c0f590f2204281bccb300a520ea
+      internalID: -1113571973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa04e2e55ff6d64b971e1026b48efe2
+      internalID: 1253933270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd98004fc9ba04eabf9ae8bedf753d
+      internalID: -1348611569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_72
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e46e859898b2f4aac20f0410c68a21
+      internalID: 260362999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_73
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8c20d3d6a7c7249b4ac9fc9b8f0750
+      internalID: -745867582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_74
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124e8164a7e4d24ca218661b0e8113d
+      internalID: -862536930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_75
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aecf63758a70124c9b8122399d5e96e
+      internalID: -755904482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_76
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eca2b90859c33b478a88b762a62dd75
+      internalID: -779466655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_77
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c6ceb4b8461141bedeabfbe0ff44d
+      internalID: -2099758519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_78
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc145814cab958f4d80f92431806156f
+      internalID: 527447090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_79
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 3720
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c14e147d8fc3469e3f0c9428e6829
+      internalID: 145426987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1bad58ed9905478283476904b489a
+      internalID: 2096040098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_81
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7316c27142695438f9ca1233810a5f
+      internalID: -1787975034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_82
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843dbda53fa13c54a988bb47846764b4
+      internalID: 1324900459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_83
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a6ea33e1ae0e42a3c073bfabdc02a
+      internalID: 1085244523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_84
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ffccd41c9e0084594f357761c853a4
+      internalID: 533562419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_85
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750900ce31c431f41bcdc7aed0a1942c
+      internalID: -1820369974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_86
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473ab444bea3ce43ae2b1c0983f8993
+      internalID: -2042204594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_87
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c4499e504a8247980db0971da10f1
+      internalID: -624255810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_88
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136178015ff7ee48aca2622043f17bd
+      internalID: -1135668931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_89
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 2976
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305eafb48a6461c499a5e909e39d586f
+      internalID: -1447594544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a89317841a89542899ce1de8fd9fce
+      internalID: 636956922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b5feb9870f2c4b8fb760d93e9f49f
+      internalID: 1939030415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_92
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf67660e5bcc2343b1eb67125de6f86
+      internalID: -1173977065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_93
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7b0025d0f9a944ab99b620cf3ef13
+      internalID: -653158347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_94
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d64275f0996ca4080d0dacf609c959
+      internalID: 2027257487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_95
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d758eb5b954b40a280b11cdf7ba73
+      internalID: 1843968837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_96
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2242552f667704da08e7009d27de9f
+      internalID: 402654113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_97
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5498bc2789c25408bc258eed7f673c
+      internalID: -1912989964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_98
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1dc5d0e54f7b48b78b03e526c623b
+      internalID: 1702169664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_99
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 2232
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbaf149bd98bae408beb7eeaee913d6
+      internalID: 2140279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be999da3e4156f43a0a9a036fe0729e
+      internalID: -1796631454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_101
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295eb94c86341f48879e5df22935545
+      internalID: -758095534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_102
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711799689a7855c49894691cedd326cb
+      internalID: -680753869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_103
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddd2ad937f94d4f803acb2739fb540
+      internalID: 1736484486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_104
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98347eca14e63945afa17a0124cfa2c
+      internalID: 670444672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_105
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477e60f33eaaeca4b907b558a6788dca
+      internalID: -1830276501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_106
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669d3bbd55d10d49a0d2c7c11c8bae0
+      internalID: -1880515571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_107
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c41c9f644e8548a564719973ea6da
+      internalID: 1731735595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_108
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa9a86fd2b68f4c871ed084ee1d7f9
+      internalID: -600563463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_109
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 1488
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833a262767750f4a85f414195f735a9
+      internalID: -723465355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816eded881ac6f74487290f1512e686d
+      internalID: 859565100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_111
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1cb73e9f79e9449c8317044fb4997
+      internalID: -466539524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_112
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd29fe4b3866e4eac557c1400e3898
+      internalID: -612359293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_113
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb30462a420a24da018453844a20ff
+      internalID: -812991225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_114
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d235eab3128234e865a538fd62d5c4
+      internalID: -2050442045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_115
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c16596d72c0914199ae36a272f5f11
+      internalID: -516133305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_116
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e0e9bdde994e45b74bb5866a75cb0
+      internalID: -780856787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_117
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af6ed9234f25749b5512452ff2cf55
+      internalID: 1037162782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_118
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e00d182aba354c961d761a00a3236
+      internalID: 1511209671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_119
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 744
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a747064da1d209498bb4665bf93058f
+      internalID: 1939251407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34c3ee2fec9104da2816824c783791
+      internalID: -1309885125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_121
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c686849b5f1e47804c20bc53a63dd
+      internalID: -2094039048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_122
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d49ec029273434c9cc823cd50ad8a5
+      internalID: 387902916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_123
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df69f5aa9f294547ae2af5230e56bc9
+      internalID: -1102062303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_124
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4414920aba526fc4a98289b30f5c74ea
+      internalID: -711642850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mcIdle_125
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 0
+        width: 744
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41ea52d7b971394faac119748c125ef
+      internalID: -1291681798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mcIdle_0: 453253946
+      mcIdle_1: -891482617
+      mcIdle_10: -1405671985
+      mcIdle_100: -1796631454
+      mcIdle_101: -758095534
+      mcIdle_102: -680753869
+      mcIdle_103: 1736484486
+      mcIdle_104: 670444672
+      mcIdle_105: -1830276501
+      mcIdle_106: -1880515571
+      mcIdle_107: 1731735595
+      mcIdle_108: -600563463
+      mcIdle_109: -723465355
+      mcIdle_11: -1764876451
+      mcIdle_110: 859565100
+      mcIdle_111: -466539524
+      mcIdle_112: -612359293
+      mcIdle_113: -812991225
+      mcIdle_114: -2050442045
+      mcIdle_115: -516133305
+      mcIdle_116: -780856787
+      mcIdle_117: 1037162782
+      mcIdle_118: 1511209671
+      mcIdle_119: 1939251407
+      mcIdle_12: -364851323
+      mcIdle_120: -1309885125
+      mcIdle_121: -2094039048
+      mcIdle_122: 387902916
+      mcIdle_123: -1102062303
+      mcIdle_124: -711642850
+      mcIdle_125: -1291681798
+      mcIdle_13: -820109128
+      mcIdle_14: 98274966
+      mcIdle_15: -1329226113
+      mcIdle_16: 1052087174
+      mcIdle_17: 1331774939
+      mcIdle_18: 1100811874
+      mcIdle_19: 1679080386
+      mcIdle_2: -390822246
+      mcIdle_20: -998904212
+      mcIdle_21: -1517348392
+      mcIdle_22: 251197073
+      mcIdle_23: 873872537
+      mcIdle_24: -1823160213
+      mcIdle_25: -375516539
+      mcIdle_26: -71521518
+      mcIdle_27: 1982413181
+      mcIdle_28: 1537965043
+      mcIdle_29: -847940768
+      mcIdle_3: -146058392
+      mcIdle_30: -1169442896
+      mcIdle_31: -770172864
+      mcIdle_32: 1622590322
+      mcIdle_33: 328655815
+      mcIdle_34: 1354188600
+      mcIdle_35: -1363352868
+      mcIdle_36: 1576855145
+      mcIdle_37: -1559601621
+      mcIdle_38: -233400256
+      mcIdle_39: 2113811700
+      mcIdle_4: 545950917
+      mcIdle_40: 1009743117
+      mcIdle_41: -2032762199
+      mcIdle_42: 727211898
+      mcIdle_43: -651480941
+      mcIdle_44: -1120835407
+      mcIdle_45: 1536809265
+      mcIdle_46: -1346926200
+      mcIdle_47: 192334551
+      mcIdle_48: -684338947
+      mcIdle_49: 1295612416
+      mcIdle_5: 929298160
+      mcIdle_50: 1231334365
+      mcIdle_51: 1619986540
+      mcIdle_52: 1280879645
+      mcIdle_53: 1286289798
+      mcIdle_54: 1662970654
+      mcIdle_55: 2007384995
+      mcIdle_56: 367401968
+      mcIdle_57: -338222377
+      mcIdle_58: -961335077
+      mcIdle_59: -772380387
+      mcIdle_6: 1237947306
+      mcIdle_60: 670738704
+      mcIdle_61: -2137184222
+      mcIdle_62: -838302239
+      mcIdle_63: -1829891599
+      mcIdle_64: 64696697
+      mcIdle_65: 34767027
+      mcIdle_66: 494022057
+      mcIdle_67: -1029426790
+      mcIdle_68: -1504094120
+      mcIdle_69: -1113571973
+      mcIdle_7: -111290971
+      mcIdle_70: 1253933270
+      mcIdle_71: -1348611569
+      mcIdle_72: 260362999
+      mcIdle_73: -745867582
+      mcIdle_74: -862536930
+      mcIdle_75: -755904482
+      mcIdle_76: -779466655
+      mcIdle_77: -2099758519
+      mcIdle_78: 527447090
+      mcIdle_79: 145426987
+      mcIdle_8: 2007156663
+      mcIdle_80: 2096040098
+      mcIdle_81: -1787975034
+      mcIdle_82: 1324900459
+      mcIdle_83: 1085244523
+      mcIdle_84: 533562419
+      mcIdle_85: -1820369974
+      mcIdle_86: -2042204594
+      mcIdle_87: -624255810
+      mcIdle_88: -1135668931
+      mcIdle_89: -1447594544
+      mcIdle_9: 1753001639
+      mcIdle_90: 636956922
+      mcIdle_91: 1939030415
+      mcIdle_92: -1173977065
+      mcIdle_93: -653158347
+      mcIdle_94: 2027257487
+      mcIdle_95: 1843968837
+      mcIdle_96: 402654113
+      mcIdle_97: -1912989964
+      mcIdle_98: 1702169664
+      mcIdle_99: 2140279214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
