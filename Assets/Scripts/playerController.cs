@@ -22,18 +22,27 @@ public class playerController : MonoBehaviour
     float time;
 
     public Animator animator;
+    public static playerController instance;
+
+    public bool Canmoving = false;
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
 
     // Start is called before the first frame update
     void Start()
     {
         hpAmount = maxHp;
+        Canmoving = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Isdead != true)
+        if (Canmoving == true)
         {
             Movement();
         }

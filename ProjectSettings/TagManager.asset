@@ -8,6 +8,7 @@ TagManager:
   - Weapons
   - Enemy
   - Spawner
+  - Holder
   layers:
   - Default
   - TransparentFX

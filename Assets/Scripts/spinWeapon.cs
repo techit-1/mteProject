@@ -16,7 +16,8 @@ public class spinWeapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.RotateAround(target.position, Vector3.up, rotateSpeed * Time.deltaTime);
+        if(playerController.instance.Canmoving == true)
+            transform.RotateAround(target.position, Vector3.up, rotateSpeed * Time.deltaTime);
 
     }
 }

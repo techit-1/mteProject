@@ -8,8 +8,7 @@ public class enemyController : MonoBehaviour
 {
     private Transform enemyMovement;
     private NavMeshAgent nav;
-    private float saberDamaged;
-    private float knuckleDamaged;
+    public float damageTaken = 0f;
 
     [SerializeField] public float atk = 1.0f;
 
@@ -34,6 +33,7 @@ public class enemyController : MonoBehaviour
     private void Awake()
     {
         instance = this;
+        currentHp = MaxHp;
     }
 
     // Start is called before the first frame update
@@ -41,10 +41,7 @@ public class enemyController : MonoBehaviour
     {
         enemyMovement = GameObject.FindGameObjectWithTag("Player").transform;
         nav = GetComponent<NavMeshAgent>();
-        saberDamaged = 1f;
-        knuckleDamaged = 1f;
-        currentHp = MaxHp;
-
+        damageTaken = WeaponAttackController.instance.atkValue;
     }
 
     // Update is called once per frame
@@ -54,9 +51,10 @@ public class enemyController : MonoBehaviour
         //if alive can walk   if hp = 0 destroy object 
         if (currentHp > 0)
         {
+            Isdead = false;
             Movment();
         }
-        else
+        else if (currentHp <= 0)
         {
             Isdead = true;
             switch (enemyType)
@@ -89,19 +87,13 @@ public class enemyController : MonoBehaviour
     //damage taken
     private void OnTriggerEnter(Collider other)
     {
-        switch (other.name)
-        {
-            case "saberController":
-                currentHp -= saberDamaged;
-                break;
-            case "knuckleController":
-                currentHp -= knuckleDamaged;
-                break;
-        }
+        if (other.gameObject.tag == "Weapons")
+            currentHp -= damageTaken;
     }
     void Movment()
     {
-        nav.destination = enemyMovement.position;
+        if(playerController.instance.Canmoving == true && playerController.instance != null)
+            nav.destination = enemyMovement.position;
     }
 
     void triggerNextWave()

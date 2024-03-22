@@ -8,6 +8,9 @@ public class ghostAppeartrigger : MonoBehaviour
     GameObject wave1;
     GameObject wave2;
     GameObject finalWave;
+    GameObject holder;
+
+    bool wave1Triggger = false;
 
     public static ghostAppeartrigger instance;
 
@@ -20,6 +23,7 @@ public class ghostAppeartrigger : MonoBehaviour
         wave2.SetActive(false);
         finalWave = GameObject.Find("ghostBossController");
         finalWave.SetActive(false);
+        holder = GameObject.Find("EnemyHolder");
         
     }
 
@@ -37,12 +41,14 @@ public class ghostAppeartrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Player"))
+        if(other.gameObject.CompareTag("Player") && wave1Triggger == false)
         {
             //ghost.SetActive(true);
             wave1.SetActive(true);
             enemySpawner.Instance.waveEnemy = 1;
             enemySpawner.Instance.canSpawn = true;
+            wave1Triggger = true;
+            Destroy(holder);
             Debug.Log("Enemy appear!!");
         }
     }
